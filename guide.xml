@@ -1,0 +1,726 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Combate HD">
+    <display-name lang="pt">Combate HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20190420003000 -0300" stop="20190420013000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190420013000 -0300" stop="20190420020000 -0300" channel="Combate HD">
+    <title lang="pt">Especial UFC Miami</title>
+    <sub-title lang="pt">Parte 1</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190420020000 -0300" stop="20190420030000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Now</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190420030000 -0300" stop="20190420040000 -0300" channel="Combate HD">
+    <title lang="pt">Best of Pride</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190420040000 -0300" stop="20190420060000 -0300" channel="Combate HD">
+    <title lang="pt">WEC 23: Hot August Fights</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190420060000 -0300" stop="20190420070000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Now</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190420070000 -0300" stop="20190420090000 -0300" channel="Combate HD">
+    <title lang="pt">Arena Grappling</title>
+    <sub-title lang="pt">2019 (Etapa Guarapari)</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190420090000 -0300" stop="20190420100000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Now</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190420100000 -0300" stop="20190420103000 -0300" channel="Combate HD">
+    <title lang="pt">Pesagem UFC Fight Night Combate</title>
+    <sub-title lang="pt">Volkov x Overeem</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190420103000 -0300" stop="20190420104500 -0300" channel="Combate HD">
+    <title lang="pt">Giro Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190420104500 -0300" stop="20190420203000 -0300" channel="Combate HD">
+    <title lang="pt">HD</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190420203000 -0300" stop="20190420210000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Now</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190420210000 -0300" stop="20190420220000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Unleashed</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190420220000 -0300" stop="20190421013000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Fight Night Combate</title>
+    <sub-title lang="pt">Volkov x Overeem</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190421013000 -0300" stop="20190421023000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Main Event</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190421023000 -0300" stop="20190421033000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Unleashed</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190421033000 -0300" stop="20190421044500 -0300" channel="Combate HD">
+    <title lang="pt">WEC 23: Hot August Fights</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190421044500 -0300" stop="20190421060000 -0300" channel="Combate HD">
+    <title lang="pt">The Ultimate Fighter 25: Redemption</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190421060000 -0300" stop="20190421070000 -0300" channel="Combate HD">
+    <title lang="pt">The Ultimate Fighter 25: Redemption</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190421070000 -0300" stop="20190421103000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Fight Night Combate</title>
+    <sub-title lang="pt">Overeem x Oleynik</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190421103000 -0300" stop="20190421113000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Knockdown: Desistir Não é Opção</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190421113000 -0300" stop="20190421150000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Fight Night Combate</title>
+    <sub-title lang="pt">Overeem x Oleynik</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190421150000 -0300" stop="20190421160000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Now</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190421160000 -0300" stop="20190421193000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Fight Night Combate</title>
+    <sub-title lang="pt">Overeem x Oleynik</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190421193000 -0300" stop="20190421203000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Knockdown: Desistir Não é Opção</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190421203000 -0300" stop="20190422000000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Fight Night Combate</title>
+    <sub-title lang="pt">Overeem x Oleynik</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190422000000 -0300" stop="20190422033000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Fight Night Combate</title>
+    <sub-title lang="pt">Overeem x Oleynik</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190422033000 -0300" stop="20190422070000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Fight Night Combate</title>
+    <sub-title lang="pt">Overeem x Oleynik</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190422070000 -0300" stop="20190422090000 -0300" channel="Combate HD">
+    <title lang="pt">Arena Grappling</title>
+    <sub-title lang="pt">2019 (Etapa Guarapari)</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190422090000 -0300" stop="20190422123000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Fight Night Combate</title>
+    <sub-title lang="pt">Overeem x Oleynik</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190422123000 -0300" stop="20190422140000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Knockdown: Desistir Não é Opção</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190422140000 -0300" stop="20190422150000 -0300" channel="Combate HD">
+    <title lang="pt">Best of Pride</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190422150000 -0300" stop="20190422160000 -0300" channel="Combate HD">
+    <title lang="pt">The Ultimate Fighter 25: Redemption</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190422160000 -0300" stop="20190422170000 -0300" channel="Combate HD">
+    <title lang="pt">The Ultimate Fighter 25: Redemption</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190422170000 -0300" stop="20190422190000 -0300" channel="Combate HD">
+    <title lang="pt">Arena Grappling</title>
+    <sub-title lang="pt">2019 (Etapa Guarapari)</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190422190000 -0300" stop="20190422200000 -0300" channel="Combate HD">
+    <title lang="pt">Best of Pride</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190422200000 -0300" stop="20190422203000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Regras do MMA</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190422203000 -0300" stop="20190422210000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Regras do MMA</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190422210000 -0300" stop="20190422213000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Regras do MMA</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190422213000 -0300" stop="20190422220000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Regras do MMA</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190422220000 -0300" stop="20190423000000 -0300" channel="Combate HD">
+    <title lang="pt">Arena Grappling</title>
+    <sub-title lang="pt">Abu Dhabi World Pro 2018</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190423000000 -0300" stop="20190423010000 -0300" channel="Combate HD">
+    <title lang="pt">Best of Pride</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190423010000 -0300" stop="20190423013000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Regras do MMA</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190423013000 -0300" stop="20190423020000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Regras do MMA</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190423020000 -0300" stop="20190423023000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Regras do MMA</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190423023000 -0300" stop="20190423030000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Regras do MMA</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190423030000 -0300" stop="20190423050000 -0300" channel="Combate HD">
+    <title lang="pt">Arena Grappling</title>
+    <sub-title lang="pt">Abu Dhabi World Pro 2018</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190423050000 -0300" stop="20190423060000 -0300" channel="Combate HD">
+    <title lang="pt">Best of Pride</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190423060000 -0300" stop="20190423070000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Unleashed</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190423070000 -0300" stop="20190423073000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Regras do MMA</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190423073000 -0300" stop="20190423080000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Regras do MMA</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190423080000 -0300" stop="20190423083000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Regras do MMA</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190423083000 -0300" stop="20190423090000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Regras do MMA</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190423090000 -0300" stop="20190423110000 -0300" channel="Combate HD">
+    <title lang="pt">Hora do MMA</title>
+    <sub-title lang="pt">Max Fight 19</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190423110000 -0300" stop="20190423120000 -0300" channel="Combate HD">
+    <title lang="pt">Especial UFC Miami</title>
+    <sub-title lang="pt">Parte 1</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190423120000 -0300" stop="20190423130000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Unleashed</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190423130000 -0300" stop="20190423163000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Reprise</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190423163000 -0300" stop="20190423171500 -0300" channel="Combate HD">
+    <title lang="pt">The Ultimate Fighter 25: Redemption</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190423171500 -0300" stop="20190423180000 -0300" channel="Combate HD">
+    <title lang="pt">The Ultimate Fighter 25: Redemption</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190423180000 -0300" stop="20190423200000 -0300" channel="Combate HD">
+    <title lang="pt">Hora do MMA</title>
+    <sub-title lang="pt">Max Fight 19</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190423200000 -0300" stop="20190423210000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Unleashed</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190423210000 -0300" stop="20190423220000 -0300" channel="Combate HD">
+    <title lang="pt">Especial UFC Miami</title>
+    <sub-title lang="pt">Parte 2</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190423220000 -0300" stop="20190424000000 -0300" channel="Combate HD">
+    <title lang="pt">Hora do MMA</title>
+    <sub-title lang="pt">Invicta FC 26: Maia x Niedzwiedz</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190424000000 -0300" stop="20190424033000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Reprise</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190424033000 -0300" stop="20190424040000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190424040000 -0300" stop="20190424060000 -0300" channel="Combate HD">
+    <title lang="pt">Hora do MMA</title>
+    <sub-title lang="pt">Invicta FC 26: Maia x Niedzwiedz</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190424060000 -0300" stop="20190424070000 -0300" channel="Combate HD">
+    <title lang="pt">Especial UFC Miami</title>
+    <sub-title lang="pt">Parte 2</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190424070000 -0300" stop="20190424103000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Reprise</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190424103000 -0300" stop="20190424110000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190424110000 -0300" stop="20190424130000 -0300" channel="Combate HD">
+    <title lang="pt">Arena Striking</title>
+    <sub-title lang="pt">WGP 53</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190424130000 -0300" stop="20190424140000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Unleashed</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190424140000 -0300" stop="20190424143000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Regras do MMA</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190424143000 -0300" stop="20190424150000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Regras do MMA</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190424150000 -0300" stop="20190424153000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Regras do MMA</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190424153000 -0300" stop="20190424160000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Regras do MMA</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190424160000 -0300" stop="20190424180000 -0300" channel="Combate HD">
+    <title lang="pt">Arena Striking</title>
+    <sub-title lang="pt">WGP 53</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190424180000 -0300" stop="20190424190000 -0300" channel="Combate HD">
+    <title lang="pt">The Ultimate Fighter 25: Redemption</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190424190000 -0300" stop="20190424200000 -0300" channel="Combate HD">
+    <title lang="pt">The Ultimate Fighter 25: Redemption</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190424200000 -0300" stop="20190424210000 -0300" channel="Combate HD">
+    <title lang="pt">The Ultimate Fighter 25: Redemption</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190424210000 -0300" stop="20190424220000 -0300" channel="Combate HD">
+    <title lang="pt">The Ultimate Fighter 25: Redemption</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190424220000 -0300" stop="20190425000000 -0300" channel="Combate HD">
+    <title lang="pt">Arena Striking</title>
+    <sub-title lang="pt">Skaus Combat 5</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190425000000 -0300" stop="20190425004500 -0300" channel="Combate HD">
+    <title lang="pt">The Ultimate Fighter 25: Redemption</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190425004500 -0300" stop="20190425013000 -0300" channel="Combate HD">
+    <title lang="pt">The Ultimate Fighter 25: Redemption</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190425013000 -0300" stop="20190425050000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Reprise</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190425050000 -0300" stop="20190425070000 -0300" channel="Combate HD">
+    <title lang="pt">Arena Striking</title>
+    <sub-title lang="pt">Skaus Combat 5</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190425070000 -0300" stop="20190425090000 -0300" channel="Combate HD">
+    <title lang="pt">WEC 23: Hot August Fights</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190425090000 -0300" stop="20190425100000 -0300" channel="Combate HD">
+    <title lang="pt">Especial UFC Miami</title>
+    <sub-title lang="pt">Parte 2</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190425100000 -0300" stop="20190425110000 -0300" channel="Combate HD">
+    <title lang="pt">The Ultimate Fighter 25: Redemption</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190425110000 -0300" stop="20190425120000 -0300" channel="Combate HD">
+    <title lang="pt">The Ultimate Fighter 25: Redemption</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190425120000 -0300" stop="20190425140000 -0300" channel="Combate HD">
+    <title lang="pt">WEC 23: Hot August Fights</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190425140000 -0300" stop="20190425173000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Reprise</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190425173000 -0300" stop="20190425180000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190425180000 -0300" stop="20190425183000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190425183000 -0300" stop="20190425190000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190425190000 -0300" stop="20190425200000 -0300" channel="Combate HD">
+    <title lang="pt">Especial UFC Miami</title>
+    <sub-title lang="pt">Parte 2</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190425200000 -0300" stop="20190425210000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Main Event</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190425210000 -0300" stop="20190425220000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Now</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190425220000 -0300" stop="20190426000000 -0300" channel="Combate HD">
+    <title lang="pt">WEC 25: Las Vegas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190426000000 -0300" stop="20190426010000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Main Event</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190426010000 -0300" stop="20190426043000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Reprise</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190426043000 -0300" stop="20190426050000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190426050000 -0300" stop="20190426070000 -0300" channel="Combate HD">
+    <title lang="pt">WEC 25: Las Vegas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190426070000 -0300" stop="20190426090000 -0300" channel="Combate HD">
+    <title lang="pt">Hora do MMA</title>
+    <sub-title lang="pt">Invicta FC 26: Maia x Niedzwiedz</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190426090000 -0300" stop="20190426100000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Main Event</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190426100000 -0300" stop="20190426120000 -0300" channel="Combate HD">
+    <title lang="pt">Arena Grappling</title>
+    <sub-title lang="pt">Abu Dhabi World Pro 2018</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190426120000 -0300" stop="20190426140000 -0300" channel="Combate HD">
+    <title lang="pt">WEC 25: Las Vegas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190426140000 -0300" stop="20190426180000 -0300" channel="Combate HD">
+    <title lang="pt">FNG 93</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190426180000 -0300" stop="20190426190000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Unleashed</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190426190000 -0300" stop="20190426200000 -0300" channel="Combate HD">
+    <title lang="pt">UFC Now</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190426200000 -0300" stop="20190426220000 -0300" channel="Combate HD">
+    <title lang="pt">Arena Grappling</title>
+    <sub-title lang="pt">Abu Dhabi World Pro 2018</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190426220000 -0300" stop="20190427013000 -0300" channel="Combate HD">
+    <title lang="pt">UFC 230</title>
+    <sub-title lang="pt">Cormier x Lewis</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
